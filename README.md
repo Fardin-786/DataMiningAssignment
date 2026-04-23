@@ -125,8 +125,8 @@ Libraries:
 
 | Algorithm           | Dataset | Accuracy |
 | ------------------- | ------- | -------- |
-| Logistic Regression | MNIST   | 90–95%   |
-| Naive Bayes         | MNIST   | 80–85%   |
+| Logistic Regression | MNIST   | 95–100%   |
+| Naive Bayes         | MNIST   | 85–90%   |
 | KNN                 | Iris    | 95–100%  |
 
 
