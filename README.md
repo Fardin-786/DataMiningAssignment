@@ -84,6 +84,19 @@ KNN is a non-parametric, instance-based learning algorithm that does not explici
 
 The model achieves an accuracy of approximately **95–100%**, showing excellent performance on this simple and well-structured dataset.
 
+📌 Assignment 4. Cancer Data Classification
+Dataset: Breast Cancer Dataset (from scikit-learn)
+Algorithm: Logistic Regression / Classification Model
+Description: This program classifies tumors as malignant or benign using machine learning techniques based on various medical features.
+
+What has been done:
+
+Loaded the breast cancer dataset
+Preprocessed and normalized the data
+Split the dataset into training and testing sets
+Trained the model using classification algorithm
+Evaluated performance using accuracy score
+
 
 ⚙️ Technologies Used
 
